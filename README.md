@@ -1,6 +1,6 @@
-# Final-Term-Project
+# 📝Diary of Final-Term-Project🏆
 
-# 2025-05-14 (WED)
+## 2025-05-14 (WED)
 1. Final Term Project 준비 시작
 2. Mid Term Project에서 계획한 주제가 구현하기 복잡하고 생각보다 실용적이지 않음...(Ollama 따로 설치/답변 느림/AI의 답변 퀄리티가 떨어짐)
 3. 새로운 주제 계획 후 준비
